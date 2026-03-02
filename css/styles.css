@@ -1,0 +1,16 @@
+:root {
+    --color-purple: #332687;
+}
+.title-size {
+    font-size: 1.5rem;
+    color: var(--color-purple);
+}
+.container .navbar-toggler {
+    box-shadow: none;
+    border-width: 2px;
+    border-color: var(--color-purple);
+}
+.bi-filter-right {
+    font-size: 1.5rem;
+    color: var(--color-purple);
+}
